@@ -25,13 +25,13 @@ www.awseducate.com/registration?refid=gtZn9ieXJxUAkmMiYzVpobaMjyxtYolL
 
 https://console.aws.amazon.com/billing/home?#/account
 
-![](https://github.com/dcharrez/Cloud/blob/master/aws/id.png)
+![](https://github.com/dcharrez/Cloud/blob/master/aws/id1.png)
 
 # esperar que aprueben su cuenta y en el correo les llegara un codigo que deben ingresar en su cuenta AWS para obtener los 150$
 
 https://console.aws.amazon.com/billing/home?#/credits
 
-![](https://github.com/dcharrez/Cloud/blob/master/aws/credits.png)
+![](https://github.com/dcharrez/Cloud/blob/master/aws/credits2.png)
 
 
 
